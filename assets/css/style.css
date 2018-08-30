@@ -1,0 +1,17 @@
+body{
+    background-image: url("tetris.jpg")
+}
+
+
+
+.container{
+    color: white;
+    width: auto;
+    height: auto;
+    text-align: center;
+
+}
+
+.gaming{
+    text-size-adjust: 500px;
+}
